@@ -24,7 +24,7 @@ if (Config.WORKTYPE == 'private') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/hartatahta?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/hartatahta?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -33,7 +33,7 @@ if (Config.WORKTYPE == 'private') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/naruto?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/naruto?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -42,7 +42,7 @@ if (Config.WORKTYPE == 'private') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/bneon?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/bneon?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -51,7 +51,7 @@ if (Config.WORKTYPE == 'private') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/matrix?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/matrix?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -60,7 +60,7 @@ if (Config.WORKTYPE == 'private') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/breakwall?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/breakwall?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -69,7 +69,7 @@ if (Config.WORKTYPE == 'private') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/gneon?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/gneon?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -78,7 +78,7 @@ if (Config.WORKTYPE == 'private') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/dropwater?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/dropwater?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -87,7 +87,7 @@ if (Config.WORKTYPE == 'private') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/flowertext?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/flowertext?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -96,7 +96,7 @@ if (Config.WORKTYPE == 'private') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/crosslogo?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/crosslogo?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -105,7 +105,7 @@ if (Config.WORKTYPE == 'private') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/silktext?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/silktext?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -114,7 +114,7 @@ if (Config.WORKTYPE == 'private') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/flametext?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/flametext?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -123,7 +123,7 @@ if (Config.WORKTYPE == 'private') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/glowtext?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/glowtext?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -132,7 +132,7 @@ if (Config.WORKTYPE == 'private') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/smoketext?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/smoketext?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -141,7 +141,7 @@ if (Config.WORKTYPE == 'private') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/skytext?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/skytext?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -150,7 +150,7 @@ if (Config.WORKTYPE == 'private') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/cslogo?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/cslogo?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -159,7 +159,7 @@ if (Config.WORKTYPE == 'private') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/lithgtext?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/lithgtext?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -168,7 +168,7 @@ if (Config.WORKTYPE == 'private') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/crismes?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/crismes?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -177,7 +177,7 @@ if (Config.WORKTYPE == 'private') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/tfire?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/tfire?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -186,7 +186,7 @@ if (Config.WORKTYPE == 'private') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/sandw?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/sandw?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -195,7 +195,7 @@ if (Config.WORKTYPE == 'private') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/gplaybutton?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/gplaybutton?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -204,7 +204,7 @@ if (Config.WORKTYPE == 'private') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/splaybutton?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/splaybutton?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -213,7 +213,7 @@ if (Config.WORKTYPE == 'private') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/text3dbox?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/text3dbox?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -222,7 +222,7 @@ if (Config.WORKTYPE == 'private') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/logobp?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/logobp?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -231,7 +231,7 @@ if (Config.WORKTYPE == 'private') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/leavest?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/leavest?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -247,7 +247,7 @@ if (Config.WORKTYPE == 'private') {
         topText = split[0];
 }
 
-    var sewimage = await axios.get(`https://api.zeks.xyz/api/wolflogo?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text1=${topText}&text2=${bottomText}`, { responseType: 'arraybuffer' })
+    var sewimage = await axios.get(`https://api.zeks.xyz/api/wolflogo?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text1=${topText}&text2=${bottomText}`, { responseType: 'arraybuffer' })
 
     await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -263,7 +263,7 @@ if (Config.WORKTYPE == 'private') {
         topText = split[0];
 }
 
-    var sewimage = await axios.get(`https://api.zeks.xyz/api/pubglogo?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text1=${topText}&text2=${bottomText}`, { responseType: 'arraybuffer' })
+    var sewimage = await axios.get(`https://api.zeks.xyz/api/pubglogo?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text1=${topText}&text2=${bottomText}`, { responseType: 'arraybuffer' })
 
     await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -279,7 +279,7 @@ if (Config.WORKTYPE == 'private') {
         topText = split[0];
 }
 
-    var sewimage = await axios.get(`https://api.zeks.xyz/api/snowwrite?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text1=${topText}&text2=${bottomText}`, { responseType: 'arraybuffer' })
+    var sewimage = await axios.get(`https://api.zeks.xyz/api/snowwrite?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text1=${topText}&text2=${bottomText}`, { responseType: 'arraybuffer' })
 
     await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -295,7 +295,7 @@ if (Config.WORKTYPE == 'private') {
         topText = split[0];
 }
 
-    var sewimage = await axios.get(`https://api.zeks.xyz/api/watercolour?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text1=${topText}&text2=${bottomText}`, { responseType: 'arraybuffer' })
+    var sewimage = await axios.get(`https://api.zeks.xyz/api/watercolour?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text1=${topText}&text2=${bottomText}`, { responseType: 'arraybuffer' })
 
     await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -315,7 +315,7 @@ else if (Config.WORKTYPE == 'public') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/hartatahta?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/hartatahta?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -324,7 +324,7 @@ else if (Config.WORKTYPE == 'public') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/naruto?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/naruto?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -333,7 +333,7 @@ else if (Config.WORKTYPE == 'public') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/bneon?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/bneon?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -342,7 +342,7 @@ else if (Config.WORKTYPE == 'public') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/matrix?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/matrix?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -351,7 +351,7 @@ else if (Config.WORKTYPE == 'public') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/breakwall?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/breakwall?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -360,7 +360,7 @@ else if (Config.WORKTYPE == 'public') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/gneon?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/gneon?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -369,7 +369,7 @@ else if (Config.WORKTYPE == 'public') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/dropwater?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/dropwater?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -378,7 +378,7 @@ else if (Config.WORKTYPE == 'public') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/flowertext?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/flowertext?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -387,7 +387,7 @@ else if (Config.WORKTYPE == 'public') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/crosslogo?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/crosslogo?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -396,7 +396,7 @@ else if (Config.WORKTYPE == 'public') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/silktext?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/silktext?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -405,7 +405,7 @@ else if (Config.WORKTYPE == 'public') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/flametext?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/flametext?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -414,7 +414,7 @@ else if (Config.WORKTYPE == 'public') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/glowtext?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/glowtext?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -423,7 +423,7 @@ else if (Config.WORKTYPE == 'public') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/smoketext?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/smoketext?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -432,7 +432,7 @@ else if (Config.WORKTYPE == 'public') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/skytext?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/skytext?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -441,7 +441,7 @@ else if (Config.WORKTYPE == 'public') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/cslogo?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/cslogo?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -450,7 +450,7 @@ else if (Config.WORKTYPE == 'public') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/lithgtext?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/lithgtext?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -459,7 +459,7 @@ else if (Config.WORKTYPE == 'public') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/crismes?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/crismes?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -468,7 +468,7 @@ else if (Config.WORKTYPE == 'public') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/tfire?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/tfire?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -477,7 +477,7 @@ else if (Config.WORKTYPE == 'public') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/sandw?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/sandw?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -486,7 +486,7 @@ else if (Config.WORKTYPE == 'public') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/gplaybutton?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/gplaybutton?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -495,7 +495,7 @@ else if (Config.WORKTYPE == 'public') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/splaybutton?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/splaybutton?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -504,7 +504,7 @@ else if (Config.WORKTYPE == 'public') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/text3dbox?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/text3dbox?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -513,7 +513,7 @@ else if (Config.WORKTYPE == 'public') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/logobp?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/logobp?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -522,7 +522,7 @@ else if (Config.WORKTYPE == 'public') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var sewimage = await axios.get(`https://api.zeks.xyz/api/leavest?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
+        var sewimage = await axios.get(`https://api.zeks.xyz/api/leavest?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text=${encodeURIComponent(match[1])}&text2=manoj`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(sewimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -538,7 +538,7 @@ else if (Config.WORKTYPE == 'public') {
         topText = split[0];
 }
 
-    var sewimage = await axios.get(`https://api.zeks.xyz/api/wolflogo?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text1=${topText}&text2=${bottomText}`, { responseType: 'arraybuffer' })
+    var sewimage = await axios.get(`https://api.zeks.xyz/api/wolflogo?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text1=${topText}&text2=${bottomText}`, { responseType: 'arraybuffer' })
 
     await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -554,7 +554,7 @@ else if (Config.WORKTYPE == 'public') {
         topText = split[0];
 }
 
-    var sewimage = await axios.get(`https://api.zeks.xyz/api/pubglogo?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text1=${topText}&text2=${bottomText}`, { responseType: 'arraybuffer' })
+    var sewimage = await axios.get(`https://api.zeks.xyz/api/pubglogo?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text1=${topText}&text2=${bottomText}`, { responseType: 'arraybuffer' })
 
     await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -570,7 +570,7 @@ else if (Config.WORKTYPE == 'public') {
         topText = split[0];
 }
 
-    var sewimage = await axios.get(`https://api.zeks.xyz/api/snowwrite?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text1=${topText}&text2=${bottomText}`, { responseType: 'arraybuffer' })
+    var sewimage = await axios.get(`https://api.zeks.xyz/api/snowwrite?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text1=${topText}&text2=${bottomText}`, { responseType: 'arraybuffer' })
 
     await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
@@ -586,7 +586,7 @@ else if (Config.WORKTYPE == 'public') {
         topText = split[0];
 }
 
-    var sewimage = await axios.get(`https://api.zeks.xyz/api/watercolour?apikey=PHZ5e1MCwmREu9kOBFgf9As9fOv&text1=${topText}&text2=${bottomText}`, { responseType: 'arraybuffer' })
+    var sewimage = await axios.get(`https://api.zeks.xyz/api/watercolour?apikey=Ha049Oq3Cc0ijWgMbniOmteuDJ5&text1=${topText}&text2=${bottomText}`, { responseType: 'arraybuffer' })
 
     await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MAKED By Paathu BOT*' })
 
