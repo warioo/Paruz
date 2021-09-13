@@ -5,7 +5,7 @@ const IG_DESC = "Downloads Image/Video From Instagram"
 
 Asena.addCommand({ pattern: 'insta ?(.*)', fromMe: false, desc: IG_DESC }, async (message, match) => {
 //if(match[1] == '') return await message.sendMessage(infoMessage(Lang.LOADING))
-    let { data, type } = await instaGram(match[1], '208c3e1637c946a6');
+    let { data, type } = await instaGram(match[1], '43eb22ae95518a7d');
 //if(match[1] == '') return await message.sendMessage(infoMessage(Lang.LOADING)) 
     if (type === 'image') { await message.sendMessage(data, MessageType.image, { caption: "🔽Downloaded" }) }
     else if (type === 'video') { await message.sendMessage(data, MessageType.video, { caption: "🔽Downloaded" }) }
