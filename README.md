@@ -9,7 +9,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Fasil-vkn">Fasil-vkn</a> to make it public
+Project created by <a href="https://github.com/warioo/Paruz">paruzz</a> to make it public
     <br>
        | © |
         Reserved |
@@ -19,7 +19,7 @@ Project created by <a href="https://github.com/Fasil-vkn">Fasil-vkn</a> to make 
 ----
 
   <p align="center">
-  <a href="httsp://github.com/Fasil-vkn/Paathu">
+  <a href="https://github.com/warioo/Paruz">
     <img src="https://img.shields.io/github/repo-size/Fasil-vkn/Paathu?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/Fasil-vkn/followers"><img title="Followers" src="https://img.shields.io/github/followers/Fasil-vkn?color=blue&style=flat-square"></a>
