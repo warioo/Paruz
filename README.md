@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/bXIs6fy.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="https://i.imgur.com/KONtL5g.jpeg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="Paathu" src="https://img.shields.io/badge/Paathu-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
